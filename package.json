@@ -1,0 +1,22 @@
+{
+  "name": "qa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tusfendi/siakad-login-cypress-testing.git"
+  },
+  "author": "tusfendi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tusfendi/siakad-login-cypress-testing/issues"
+  },
+  "homepage": "https://github.com/tusfendi/siakad-login-cypress-testing#readme",
+  "devDependencies": {
+    "cypress": "^8.2.0"
+  }
+}
